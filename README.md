@@ -32,9 +32,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+### Name:LAVANYA.M
+### Register Number:212222110021
+![image](https://github.com/LavanyaMuraleedharan/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/120103862/208083e8-a6c9-4daf-a05a-532d5300cdc3)
 
-### Name:
-### Register Number:
+
+
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
